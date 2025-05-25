@@ -1,6 +1,7 @@
 # Olá! 👋 Eu sou o Rian Lopes
 
 🎓 Estudante de Sistemas de Informação • https://unisanta.br/ 
+
 🔐 Focado em *Segurança da Informação* e *Web Security*  
 🧠 Apaixonado por entender, criar e proteger aplicações web  
 🌐 Buscando dominar tanto *Back-End* quanto *Front-End* com foco total em segurança
