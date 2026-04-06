@@ -1,4 +1,4 @@
-# Olá! 👋 Eu sou o Rian Lopes
+# Olá! 👋 Eu sou o Rian Ziata
 
 🎓 Estudante de Sistemas de Informação • https://unisanta.br/ 
 
